@@ -18,6 +18,8 @@ Estudante de Ciências da Computação e desenvolvimento Android
 
 ## **O que eu fiz?**
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrizcavalcanti&repo=eletricCar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/beatrizcavalcanti/eletricCar)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrizcavalcanti&repo=androidSete&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/beatrizcavalcanti/androidSete)
 
 ## **Etc e tal**
